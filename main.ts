@@ -1,6 +1,6 @@
 enum NeoPixelColors {
     //% block=rouge
-    Red = 0xFF0000,
+    Rouge = 0xFF0000,
     //% block=orange
     Orange = 0xFFA500,
     //% block=yellow
